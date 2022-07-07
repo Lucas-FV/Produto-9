@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-brand{
+    display: flex;
+    justify-content: space-around;
+}
+h4{
+    margin-left: 1rem;
+    margin-top: 0.35rem;
+}
+.card{
+    margin-top: 2rem;
+}
+.iframe{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+.bot{
+    margin-left: 1rem;
+}
